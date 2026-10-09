@@ -19,18 +19,6 @@ A mobile-friendly web application that answers the question, "When did I last do
 
 ---
 
-## 📱 Purpose?
-* Have you ever wondered, when did I last do this? It could be when did you last change your car oil, when did you last water your plants, etc. This app lets you remember the last time you did something, whenever you need it. These type of tasks don't necessarily have a set time or day, so it is hard to plan for it in a regular calendar. That is what Lisburn solves!
+## 📱 LISBURN
+* THIS VERSION IS NO LONGER BEING UPDATED! PLEASE GO TO MY PROFILE AND USE THE LISBURN REPOSITORY 
 
----
-
-## 🚀 Installation / Sideloading
-1. Head over to the **Releases** tab of this repository.
-2. Download the latest `.ipa` file for iOS.
-3. Sideload the package onto your device using your preferred tool (e.g., AltStore, Sideloadly, etc.).
-
----
-
-## 🛠️ Built With
-* [Capacitor](https://capacitorjs.com/) - Cross-platform native bridge
-* GitHub Actions - Automated cloud building pipeline
